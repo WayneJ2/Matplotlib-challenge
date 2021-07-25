@@ -1,7 +1,7 @@
-# Matplotlib-challenge ()
+# Matplotlib-challenge (Pymaceuticals Inc.)
 
 ## Purpose
-
+To generate all tables and figures for the Capomulin study technical report. Develop a top-level summary of the results found.
 
 ## Description
 The **_[]()_**
@@ -11,6 +11,6 @@ The **_[]()_**
 
 1. 
 
-## Observable Trends From Data
+## Summary of Capomulin study results
 
 1.

@@ -9,7 +9,10 @@ The **_[]()_**
 
 ## Table of Figures
 
-1. 
+1. Summary Statistics - Mean, Median, Var, Std. Dev., Std Error
+2. Bar and Pie Charts
+  3. Number of Mice tested vs Drug Regimen
+  4. 
 
 ## Summary of Capomulin study results
 

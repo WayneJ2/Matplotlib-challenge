@@ -22,7 +22,7 @@ The **_[MatplotlibCode.ipynb](https://github.com/WayneJ2/Matplotlib-challenge/bl
 
 ## Drug Treatment Study Analysis
 
-1. All tumor volumes acreoss al regimens averaged 40-54mm3.
+1. All tumor volumes across all regimens averaged 40-54mm3.
 2. Chosen 4 regimens for futher analysis showed the lowest variance and errors in tumor volume:
     1. Capomulin- Var: 25 , Std Err: 0.33
     2. Ceftamin- Var: 39 , Std Err: 0.0.46
